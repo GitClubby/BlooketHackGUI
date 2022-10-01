@@ -18,4 +18,8 @@ How to Install and Use GUI:
 
 6: Paste it in the console and Click Enter
 
-And your Done!
+Now you are Done!
+
+The GUI should look like this:
+![image](https://user-images.githubusercontent.com/104259007/193401047-55b4834b-c706-4efe-b19a-d009903be388.png)
+
