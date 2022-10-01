@@ -28,7 +28,7 @@ details summary ~ * {
 }
 .cheat {
     border: none;
-    background: hsl(0, 0%, 20%);
+    background: hsl(225, 47%, 31%);
     padding: 5px;
     margin: 3px;
     width: 60%;
@@ -45,7 +45,7 @@ details summary ~ * {
     GUI.appendChild(style);
     GUI.style.width = '400px';
     //GUI.style.height = '500px';
-    GUI.style.background = 'hsl(0, 0%, 10%)';
+    GUI.style.background = 'hsl(237, 87%, 37%)';
     GUI.style.borderRadius = '10px';
     GUI.style.position = 'absolute';
     GUI.style.textAlign = 'center';
