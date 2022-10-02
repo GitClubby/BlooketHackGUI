@@ -21,5 +21,7 @@ How to Install and Use GUI:
 Now you are Done!
 
 The GUI should look like this:
-![image](https://user-images.githubusercontent.com/104259007/193401047-55b4834b-c706-4efe-b19a-d009903be388.png)
+
+![image](https://user-images.githubusercontent.com/104259007/193442403-d83c8c11-0aa8-46fe-ac5d-7a77f5857436.png)
+
 
